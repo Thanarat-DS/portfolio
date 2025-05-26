@@ -8,7 +8,7 @@
 
 ## Login
 ใช้ Json WebToken ในการ Secure Login ของผู้ใช้ <br></br>
-<img src="assets/login.png" height=500 width=500></img>
+<img src="assets/login.png" height=300 width=500></img>
 ## Home Page
 ตัวอย่าง list ข้อสอบ แต่ละแผนกจะสอบเรื่องไม่เหมือนกัน (ในรูปเป็นข้อมูลสมมติ) <br></br>
 <img src="assets/quiz_list.png"></img>
