@@ -1,10 +1,12 @@
 # E-Testing App
 ## 🧰 Tech Stack
-- **Frontend:** React, Semantic UI  
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL
-- **Admin Panel:** AdminJS with custom resource configs 
-- **Authentication:** JWT-based login system 
+
+- **Frontend:** React with Semantic UI  
+- **Backend:** Node.js, Express.js (microservices-based)  
+- **Database:** MySQL with Sequelize ORM  
+- **Admin Panel:** AdminJS with custom resource configurations  
+- **Authentication:** JWT-based login system
+ 
 
 ## Login
 ใช้ Json WebToken ในการ Secure Login ของผู้ใช้ <br></br>
