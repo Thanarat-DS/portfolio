@@ -27,7 +27,7 @@
 ตัวอย่างข้อมูลผู้ใช้ <br></br>
 <img src="assets/user_data.png"></img>
 ## Custom Admin Page ในระบบสามารถสร้าง Custom Components ที่ Advanced กว่าเดิมได้
-หน้า Report สั้นๆ เป็นมุมมองแบบภาพรวม เมื่อคลิกที่รหัสข้อสอบจะสามารถ navigate พร้อม Filter เพื่อเพิ่ม/แก้ไข <br></br>
+หน้า Report มุมมองแบบภาพรวม เมื่อคลิกที่รหัสข้อสอบจะสามารถ navigate พร้อม Filter เพื่อเพิ่ม/แก้ไข <br></br>
 <img src="assets/custom_page1.png"></img><br></br>
 หน้า Config ข้อสอบ<br></br>
 <img src="assets/custom_page2.png"></img>
