@@ -35,7 +35,18 @@ Source code (Work in Progress): https://github.com/Thanarat-DS/E-Testing-App
 <img src="assets/custom_page2.png"></img>
 
 # 2. C# Backend Challenge
+
+## 🧰 Tech Stack
+
+- **Backend:** ASP.NET Core 8.0 (Web API)
+- **Authentication:** ASP.NET Identity with JWT (JSON Web Token)
+- **Database:** SQLite
+- **ORM:** Entity Framework Core
+
+
 ## API Endpoint Summary
+
+https://github.com/Thanarat-DS/BackendChallenge
 
 | Method | Endpoint       | Description                                                  | Request Body Example                                |
 |--------|----------------|--------------------------------------------------------------|-----------------------------------------------------|
