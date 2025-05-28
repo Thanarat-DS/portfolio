@@ -90,6 +90,12 @@ Interactive mapping application to visualize farmland, artesian wells, and aquif
 
 **Zoom-in View with Clustering**  
 
+<img src="assets/home-zoom.png" />
+
+**Plot Search with Nearby Wells Highlighted**  
+
+<img src="assets/hover-artesian.png" width="70%" height="70%" />
+
 # 4. E-Learning Website (โปรเจคตอนเรียนที่ KMITL University)
 
 source code: https://github.com/Thanarat-DS/E-LearningWeb
