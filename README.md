@@ -132,6 +132,21 @@ source code: https://github.com/Thanarat-DS/E-LearningWeb
 
 source code: https://github.com/Thanarat-DS/LittleLemon-API-Project
 
+## 🧰 Tech Stack
+
+- **Backend:** Django REST Framework  
+- **Authentication:** Token-based authentication using Djoser (JWT)  
+- **Database:** SQLite
+- **User Roles & Permissions:** Role-based access using Django Groups (`admin`, `manager`, `delivery crew`, `customer`)  
+- **API Features:**  
+  - User registration and login  
+  - Role/group management for admin and managers  
+  - Menu and category CRUD for managers  
+  - Cart and order system for customers  
+  - Order assignment and tracking for delivery crew  
+- **Pagination, Filtering & Sorting:** Implemented for menu items  
+- **Admin Panel:** Django Admin  
+
 ## Project structure and API routes
 
 <p>
