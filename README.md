@@ -35,7 +35,7 @@ Source code (Work in Progress): https://github.com/Thanarat-DS/E-Testing-App
 <img src="assets/custom_page2.png"></img>
 
 # 2. C# Backend Challenge
-
+source code:https://github.com/Thanarat-DS/BackendChallenge
 ## 🧰 Tech Stack
 
 - **Backend:** ASP.NET Core 8.0 (Web API)
@@ -45,8 +45,6 @@ Source code (Work in Progress): https://github.com/Thanarat-DS/E-Testing-App
 
 
 ## API Endpoint Summary
-
-https://github.com/Thanarat-DS/BackendChallenge
 
 | Method | Endpoint       | Description                                                  | Request Body Example                                |
 |--------|----------------|--------------------------------------------------------------|-----------------------------------------------------|
