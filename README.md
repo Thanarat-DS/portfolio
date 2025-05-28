@@ -54,6 +54,9 @@ source code:https://github.com/Thanarat-DS/BackendChallenge
 | POST   | `/user/like`   | Like a book and save to database                             | `{ "user_id": "xxx", "book_id": 1 }`                |
 
 # 3. Artesian Map And Farm Analysis App
+
+source code: https://github.com/Thanarat-DS/MapAppProject
+
 ## Overview
 
 Interactive mapping application to visualize farmland, artesian wells, and aquifer layers. Built with React, it allows users to search farmland plots and discover nearby water resources with spatial analysis tools.
@@ -73,16 +76,16 @@ Interactive mapping application to visualize farmland, artesian wells, and aquif
 2. **Artesian Wells:** Open data from Thai Government.
 3. **Aquifer Layers:** Open data from the Thai Department of Water Resources.
 
-### 🖼️ UI Snapshots
+## UI Snapshots
 
 **Home Page**  
-<img src="assets/home.png" width="70%" />
+<img src="assets/home.png" />
 
 **Zoom-in View with Clustering**  
-<img src="assets/home-zoom.png" width="70%" />
+<img src="assets/home-zoom.png" />
 
 **Plot Search with Nearby Wells Highlighted**  
-<img src="assets/hover-artesian.png" width="70%" />
+<img src="assets/hover-artesian.png" />
 
 ---
 
