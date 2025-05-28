@@ -137,7 +137,7 @@ source code: https://github.com/Thanarat-DS/LittleLemon-API-Project
 - **Backend:** Django REST Framework  
 - **Authentication:** Token-based authentication using Djoser (JWT)  
 - **Database:** SQLite
-- **User Roles & Permissions:** Role-based access using Django Groups (`admin`, `manager`, `delivery crew`, `customer`)  
+- **User Roles & Permissions:** Role-based access (`admin`, `manager`, `delivery crew`, `customer`)  
 - **API Features:**  
   - User registration and login  
   - Role/group management for admin and managers  
