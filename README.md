@@ -1,4 +1,4 @@
-# E-Testing App
+# 1. E-Testing App
 ## 🧰 Tech Stack
 
 - **Frontend:** React, Semantic UI  
@@ -33,3 +33,13 @@ Source code (Work in Progress): https://github.com/Thanarat-DS/E-Testing-App
 <img src="assets/custom_page1.png"></img><br></br>
 หน้า Config ข้อสอบ<br></br>
 <img src="assets/custom_page2.png"></img>
+
+# 2. C# Backend Challenge
+## API Endpoint Summary
+
+| Method | Endpoint       | Description                                                  | Request Body Example                                |
+|--------|----------------|--------------------------------------------------------------|-----------------------------------------------------|
+| POST   | `/login`       | Authenticate user and return JWT token                       | `{ "username": "xxx", "password": "xxxx" }`         |
+| POST   | `/register`    | Create new user account                                      | `{ "username": "xxx", "password": "xxxx", "fullname": "xxx" }` |
+| GET    | `/books`       | Get book list from ITBook API and sort by title              | –                                                   |
+| POST   | `/user/like`   | Like a book and save to database                             | `{ "user_id": "xxx", "book_id": 1 }`                |
