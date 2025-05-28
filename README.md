@@ -52,3 +52,44 @@ source code:https://github.com/Thanarat-DS/BackendChallenge
 | POST   | `/register`    | Create new user account                                      | `{ "username": "xxx", "password": "xxxx", "fullname": "xxx" }` |
 | GET    | `/books`       | Get book list from ITBook API and sort by title              | –                                                   |
 | POST   | `/user/like`   | Like a book and save to database                             | `{ "user_id": "xxx", "book_id": 1 }`                |
+
+# 3. Artesian Map And Farm Analysis App
+## Overview
+
+Interactive mapping application to visualize farmland, artesian wells, and aquifer layers. Built with React, it allows users to search farmland plots and discover nearby water resources with spatial analysis tools.
+
+## Features
+
+- View clustered data on an interactive map.
+- Search by plot ID to find artesian wells within a 2 km radius.
+- Hover over data points to:
+  - See well details.
+  - Identify aquifer layers.
+  - Get direction and distance from selected farmland.
+
+## Data Sources
+
+1. **Farm Data:** Randomly generated for demonstration.
+2. **Artesian Wells:** Open data from Thai Government.
+3. **Aquifer Layers:** Open data from the Thai Department of Water Resources.
+
+### 🖼️ UI Snapshots
+
+**Home Page**  
+<img src="assets/home.png" width="70%" />
+
+**Zoom-in View with Clustering**  
+<img src="assets/home-zoom.png" width="70%" />
+
+**Plot Search with Nearby Wells Highlighted**  
+<img src="assets/hover-artesian.png" width="70%" />
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React, Leaflet, Semantic UI
+- **Data Cleaning:** Python
+- **Data Visualization:** React-Leaflet (Map), Custom popups and markers
+
+---
