@@ -90,8 +90,34 @@ Interactive mapping application to visualize farmland, artesian wells, and aquif
 
 **Zoom-in View with Clustering**  
 
-<img src="assets/home-zoom.png" />
+# 4. E-Learning Website (โปรเจคตอนเรียนที่ KMITL University)
 
-**Plot Search with Nearby Wells Highlighted**  
+source code: https://github.com/Thanarat-DS/E-LearningWeb
 
-<img src="assets/hover-artesian.png" />
+## 🧰 Tech Stack
+
+- **Frontend:** HTML, CSS
+- **Backend:** PHP 
+- **Database:** MySQL
+- **Features:** API Payment Gateway
+
+## Login
+<img src="assets/elearn_login.png" height=80% width=50%></img>
+## Register
+แยก Role ระหว่างผู้สอนและผู้เรียน
+
+<img src="assets/elearn_reg.png" height=80% width=50%></img>
+## Payment Plan
+<img src="assets/elearn_plan.png"></img>
+## Payment Enter Credit Card
+<img src="assets/elearn_pay.png"></img>
+## Success Payment 
+<img src="assets/elearn_success.png" width="30%" height="30%"></img>
+## Home Page
+<img src="assets/elearn_home.png"></img>
+## Home Page (ต่อ)
+<img src="assets/elearn_course.png"></img>
+## Courses List
+<img src="assets/elearn_s.png"></img>
+## In Course
+<img src="assets/elearn_incourse.png"></img>
