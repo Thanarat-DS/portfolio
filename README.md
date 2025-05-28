@@ -61,6 +61,12 @@ source code: https://github.com/Thanarat-DS/MapAppProject
 
 Interactive mapping application to visualize farmland, artesian wells, and aquifer layers. Built with React, it allows users to search farmland plots and discover nearby water resources with spatial analysis tools.
 
+## 🧰 Tech Stack
+
+- **Frontend:** React, Leaflet, Semantic UI
+- **Data Cleaning:** Python
+- **Data Visualization:** React-Leaflet (Map), Custom popups and markers
+
 ## Features
 
 - View clustered data on an interactive map.
@@ -78,21 +84,14 @@ Interactive mapping application to visualize farmland, artesian wells, and aquif
 
 ## UI Snapshots
 
-**Home Page**  
+**Home Page** 
+ 
 <img src="assets/home.png" />
 
 **Zoom-in View with Clustering**  
+
 <img src="assets/home-zoom.png" />
 
 **Plot Search with Nearby Wells Highlighted**  
+
 <img src="assets/hover-artesian.png" />
-
----
-
-## 🧰 Tech Stack
-
-- **Frontend:** React, Leaflet, Semantic UI
-- **Data Cleaning:** Python
-- **Data Visualization:** React-Leaflet (Map), Custom popups and markers
-
----
